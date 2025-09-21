@@ -4,7 +4,6 @@ Personal portfolio showcasing **software engineering projects**, **technical wri
 
 ---
 
-## 📑 Resumes
 ## 📑 Resume
 - [Combined Resume (Engineering + Writing)](DAlessandro_Combined_Resume.pdf)
 
