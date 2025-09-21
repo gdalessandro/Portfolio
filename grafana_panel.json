@@ -1,0 +1,19 @@
+{
+  "type": "timeseries",
+  "title": "CPU Usage (avg by host)",
+  "gridPos": { "x": 0, "y": 0, "w": 24, "h": 8 },
+  "fieldConfig": {
+    "defaults": { "unit": "percent", "decimals": 1 },
+    "overrides": []
+  },
+  "options": {
+    "legend": { "displayMode": "table", "placement": "right" }
+  },
+  "datasource": { "type": "influxdb", "uid": "influxdb" },
+  "targets": [
+    {
+      "refId": "A",
+      "query": "from(bucket: \"telegraf\")\\n  |> range(start: v.timeRangeStart, stop: v.timeRangeStop)\\n  |> filter(fn: (r) => r._measurement == \"cpu\" and r._field == \"usage_system\" and r.cpu == \"cpu-total\")\\n  |> aggregateWindow(every: ${__interval}, fn: mean, createEmpty: false)\\n  |> group(columns: [\"host\"])\\n  |> yield(name: \"mean\")"
+    }
+  ]
+}
