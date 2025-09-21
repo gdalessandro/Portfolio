@@ -13,9 +13,11 @@ Personal portfolio showcasing **software engineering projects**, **technical wri
 ---
 
 ## 💻 Code Samples
-- `commit_sha_to_influx.py` — Python script for updating GitHub commit SHAs in InfluxDB
-- `pipeline_parallelization.cpp` — fork()-based process pipeline (C++)
-- `grafana_panel.json` — optimized Grafana query
+
+- **pipeline_parallelization.cpp** — Fork-based C++ pipeline that reduced airline ticket audit runtime from **6s → 0.4s**.  
+- **commit_sha_to_influx.py** — Python automation script for syncing GitHub commit SHAs into InfluxDB.  
+- **grafana_panel.json** — Optimized Grafana panel/query for real-time system monitoring.  
+
 
 ---
 
