@@ -22,9 +22,10 @@ Personal portfolio showcasing **software engineering projects**, **technical wri
 ---
 
 ## ✍️ Writing Samples
-- `qa-hypertension.md` — Health Q&A
-- `qa-kidney-stones.md` — Health Q&A
-- `grafana-optimizations.md` — Short technical article
+- [qa-hypertension.md](qa-hypertension.md) — Health Q&A: Hypertension
+- [qa-kidney-stones.md](qa-kidney-stones.md) — Health Q&A: Kidney Stones
+- [grafana-optimizations.md](grafana-optimizations.md) — Technical article on Grafana query optimization
+
 
 ---
 
