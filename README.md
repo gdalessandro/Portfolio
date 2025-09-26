@@ -2,7 +2,7 @@
 
 **Software Engineer | AI/ML Researcher | Certified Scrum Master (CSM) | Lean Six Sigma Green Belt**  
 
-Blending decades of experience in **C/C++**, **Python**, and **AI/ML systems** with expertise in **distributed databases**, **predictive analytics**, and **process optimization**. Passionate about delivering scalable solutions that bridge engineering rigor with data-driven insights.
+Bringing extensive experience in **C/C++** and **distributed systems**, combined with strong expertise in **Python** and modern **AI/ML research**. Skilled in building predictive models, optimizing complex systems, and delivering scalable, data-driven solutions.
 
 ---
 
