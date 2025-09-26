@@ -1,7 +1,7 @@
 # 📂 Portfolio – Guido D’Alessandro
 
 Personal portfolio showcasing **software engineering projects**, **technical writing**, and **research**.  
-Certified **Lean Six Sigma Green Belt** | **Scrum Master (CSM)** | Software Engineer (C/C++, Python, AI/ML, Distributed Systems)
+Certified **Lean Six Sigma Green Belt** | **Scrum Master (CSM)** | **Software Engineer (C/C++, Python, AI/ML, Distributed Systems)** | **Data Scientist**
 
 ---
 
@@ -15,11 +15,10 @@ Certified **Lean Six Sigma Green Belt** | **Scrum Master (CSM)** | Software Engi
 ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-brightgreen)
 ![Certified Data Scientist](https://img.shields.io/badge/Certified-Data%20Scientist-purple)
 
-
 ---
 
 ## 📑 Resume
-- [📄 Resume (Preview/Download)](https://github.com/gdalessandro/Portfolio/raw/main/DAlessandro_Combined_Resume.pdf)  
+- [📄 Resume (Preview/Download)](https://github.com/gdalessandro/Portfolio/raw/main/DAlessandro_Combined_Resume.pdf)
 
 ---
 
