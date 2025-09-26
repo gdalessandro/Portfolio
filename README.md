@@ -13,6 +13,8 @@ Certified **Lean Six Sigma Green Belt** | **Scrum Master (CSM)** | Software Engi
 ![AI/ML](https://img.shields.io/badge/AI%2FML-Research-green)
 ![Scrum Master](https://img.shields.io/badge/Certified-Scrum%20Master-blue)
 ![Lean Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-brightgreen)
+![Certified Data Scientist](https://img.shields.io/badge/Certified-Data%20Scientist-purple)
+
 
 ---
 
