@@ -5,7 +5,8 @@ Personal portfolio showcasing **software engineering projects**, **technical wri
 ---
 
 ## 📑 Resume
-- [Combined Resume (Engineering + Writing)](DAlessandro_Combined_Resume.pdf)
+- [Resume (Preview/Download)](https://github.com/gdalessandro/Portfolio/raw/main/DAlessandro_Combined_Resume.pdf)
+
 
 
 👉 Click to preview directly in GitHub.
